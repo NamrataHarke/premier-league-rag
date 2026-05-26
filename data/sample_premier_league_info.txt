@@ -1,0 +1,55 @@
+PREMIER LEAGUE — GENERAL OVERVIEW
+=================================
+
+This is a small sample document included so the RAG project runs out of the box without requiring a download of the official Handbook. Replace this file with the real Premier League Handbook (a publicly available PDF) for a more substantive demonstration. All content below is written from scratch as general knowledge and is intended only as a placeholder.
+
+COMPETITION STRUCTURE
+---------------------
+
+The Premier League is the top division of English football. It contains twenty clubs that play each other twice during a season, once at home and once away, resulting in thirty-eight matches per club. Three points are awarded for a win and one for a draw, with no points for a loss. The club with the most points at the end of the season is crowned champion.
+
+At the end of each season the three clubs with the fewest points are relegated to the second tier, the EFL Championship. They are replaced by three clubs promoted from the Championship — the two clubs finishing in the top two places, plus the winner of a playoff competition contested by the next four clubs in the standings.
+
+European qualification is awarded to the top finishing clubs. The leading clubs qualify for the UEFA Champions League, the next tier qualify for the Europa League, and a further place is available in the Conference League. Cup competition results also influence European qualification.
+
+SEASON CALENDAR
+---------------
+
+A Premier League season typically runs from August to May. Matches are usually played at weekends, though midweek fixtures occur during congested periods. The league pauses during international breaks to accommodate national-team matches.
+
+CLUB MEMBERSHIP AND GOVERNANCE
+------------------------------
+
+Each Premier League club is a shareholder of the competition. Major decisions affecting the league's rules and commercial arrangements require the support of a defined majority of clubs. The league has an independent chair and a chief executive.
+
+The clubs collectively negotiate broadcast rights for domestic and international markets. The resulting revenue is distributed to clubs through a combination of equal shares, merit payments tied to final league position, and facility fees reflecting how often a club's matches are televised.
+
+SQUAD AND PLAYER REGISTRATION
+-----------------------------
+
+Clubs register a squad of professional players for each season. Squad-size limits and rules around home-grown players exist to encourage development of locally trained talent. Transfer activity is permitted during defined transfer windows, typically a longer window in summer before the season starts and a shorter window in January.
+
+MATCH OFFICIALS
+---------------
+
+Each match is officiated by a referee, two assistant referees, and a fourth official. Video Assistant Referee (VAR) review is used to support decisions in specific categories, including goals, penalties, direct red cards, and cases of mistaken identity.
+
+DISCIPLINE
+----------
+
+Players who accumulate a defined number of yellow cards within a window of matches are suspended for one or more subsequent matches. Red cards carry an immediate suspension, with the length depending on the nature of the offence. Clubs and managers may also be sanctioned for misconduct.
+
+FAIR PLAY AND FINANCIAL CONTROLS
+--------------------------------
+
+The Premier League operates financial regulations intended to promote sustainability and competitive balance. These include limits on losses over rolling periods and requirements for clubs to disclose related-party transactions at market value. Breaches can result in fines or sporting sanctions such as points deductions.
+
+COMMUNITY AND YOUTH DEVELOPMENT
+-------------------------------
+
+The Premier League funds programmes that support the wider game, including the Elite Player Performance Plan for youth development, community initiatives delivered through club foundations, and grant funding for stadium improvements across lower leagues.
+
+INTERNATIONAL REACH
+-------------------
+
+Premier League matches are broadcast in nearly every country in the world and reach hundreds of millions of households. The league undertakes international development work, including training programmes for coaches and referees in other football associations.
